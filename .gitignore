@@ -1,0 +1,22 @@
+# сборка
+build/
+dist/
+*.obj
+*.res
+*.o
+# посторонние/временные материалы
+build2/
+orig/
+inspect/
+site/
+node_modules/
+*.tmp
+*.log
+*.tar.gz
+# секреты и ключи
+vssh.sh
+.env
+*.pem
+*.key
+id_*
+design/

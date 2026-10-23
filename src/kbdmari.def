@@ -1,0 +1,3 @@
+LIBRARY kbdmari
+EXPORTS
+    KbdLayerDescriptor @1
