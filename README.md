@@ -25,6 +25,17 @@
 - **Новое:** галочка «Скрыть системный индикатор языка» — остаётся только наш значок, без путаницы.
 - Полное удаление через «Программы и компоненты» с возвратом прежних настроек.
 
+## 🍏 macOS
+
+Марийская раскладка 3.1 для macOS — папка [`macos/`](macos/). Марийские буквы через **Option**: `⌥ + У О А Ы Н В` → **ӱ ӧ ӓ ӹ ҥ ү** (с Shift — заглавные).
+
+1. Скачайте [`MariKeyboard-3.1-macOS.zip`](https://github.com/MihailPirogov/mari-keyboard-windows/releases/latest) (или с [pirogovlab.ru](https://pirogovlab.ru/mariyskaya-raskladka-klaviatury/#macos)) и распакуйте.
+2. Правый клик по `install.command` → «Открыть» — раскладка скопируется в `~/Library/Keyboard Layouts` и включится.
+3. Если «Марийская» не появилась в строке меню: выйдите и войдите в систему, затем Настройки → Клавиатура → Источники ввода → «+» → **«Другие»** → «Марийская».
+4. Удаление — `uninstall.command`.
+
+Подробно: [macos/README.ru.md](macos/README.ru.md) · [English](macos/README.en.md). Сборка: `python3 tools/gen_mac.py`.
+
 ## 📥 Установка
 
 1. Скачайте [`MariKeyboard-Setup-3.1.exe`](https://github.com/MihailPirogov/mari-keyboard-windows/releases/latest) (или с [pirogovlab.ru](https://pirogovlab.ru/mariyskaya-raskladka-klaviatury/)).

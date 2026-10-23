@@ -20,3 +20,4 @@ vssh.sh
 *.key
 id_*
 design/
+tools/__pycache__/
