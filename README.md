@@ -29,7 +29,7 @@
 
 Марийская раскладка 3.1 для macOS — папка [`macos/`](macos/). Марийские буквы через **Option**: `⌥ + У О А Ы Н В` → **ӱ ӧ ӓ ӹ ҥ ү** (с Shift — заглавные).
 
-1. Скачайте [`MariKeyboard-3.1-macOS.zip`](https://github.com/MihailPirogov/mari-keyboard-windows/releases/latest) (или с [pirogovlab.ru](https://pirogovlab.ru/mariyskaya-raskladka-klaviatury/#macos)) и распакуйте.
+1. Скачайте [`MariKeyboard-3.1-macOS.zip`](https://github.com/MihailPirogov/mari-keyboard-windows/releases/download/v3.1-macos/MariKeyboard-3.1-macOS.zip) (или с [pirogovlab.ru](https://pirogovlab.ru/mariyskaya-raskladka-klaviatury/#macos)) и распакуйте.
 2. Правый клик по `install.command` → «Открыть» — раскладка скопируется в `~/Library/Keyboard Layouts` и включится.
 3. Если «Марийская» не появилась в строке меню: выйдите и войдите в систему, затем Настройки → Клавиатура → Источники ввода → «+» → **«Другие»** → «Марийская».
 4. Удаление — `uninstall.command`.
